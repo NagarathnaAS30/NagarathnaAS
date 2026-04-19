@@ -1,0 +1,56 @@
+index.jsp
+<html>
+<head>
+<title>Student Form</title>
+
+<script>
+function validateForm() {
+    let f = document.forms["f"];
+
+    let roll = f["roll"].value;
+    let name = f["name"].value;
+    let m1 = f["s1"].value;
+    let m2 = f["s2"].value;
+    let m3 = f["s3"].value;
+    let m4 = f["s4"].value;
+    let m5 = f["s5"].value;
+
+    if (roll=="" || name=="" || m1=="" || m2=="" || m3=="" || m4=="" || m5=="") {
+        alert("All fields are required!");
+        return false;
+    }
+
+    let marks = [m1,m2,m3,m4,m5];
+    for(let i=0;i<marks.length;i++){
+        if(marks[i] < 0 || marks[i] > 100){
+            alert("Marks must be between 0 and 100");
+            return false;
+        }
+    }
+
+    return true;
+}
+</script>
+
+</head>
+<body>
+
+<h2>Student Details</h2>
+
+<form name="f" action="ResultServlet" method="post" onsubmit="return validateForm()">
+
+Roll No: <input type="text" name="roll"><br><br>
+Name: <input type="text" name="name"><br><br>
+
+Sub1: <input type="number" name="s1"><br><br>
+Sub2: <input type="number" name="s2"><br><br>
+Sub3: <input type="number" name="s3"><br><br>
+Sub4: <input type="number" name="s4"><br><br>
+Sub5: <input type="number" name="s5"><br><br>
+
+<input type="submit" value="Submit">
+
+</form>
+
+</body>
+</html>

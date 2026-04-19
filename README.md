@@ -24,3 +24,6 @@ p8 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p8.png
 
 
 p9 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p9.png
+
+
+p10 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p10.png

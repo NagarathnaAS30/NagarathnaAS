@@ -1,28 +1,22 @@
-package lab_3b;
-import java.util.Scanner;
-public class p1 {
-	public static boolean isNullOrEmpty(String str) {
-        if (str == null || str.trim().isEmpty()) {
-            return true;
-        }
-        return false;
-    }
+package lab_1b_array_list_programs;
+import java.util.*; class p1 {
 
-    public static void main(String[] args) {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<String> ls = new ArrayList<>();
+		ls.add("Orange");
+		ls.add("geen");
+		ls.add("pink");
+		ls.add("red");
+		System.out.println(ls);
+		if(ls.contains("red")) {
+			System.out.println("available");
+		}else {
+			System.out.println("available not");
+		}
+	}
 
-        Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter a string:");
-        String input = sc.nextLine();
+	}
 
-        if (isNullOrEmpty(input)) {
-            System.out.println("The string is null or contains only whitespace");
-        } else {
-            System.out.println("The string is not null or empty");
-        }
 
-        sc.close();
-    }
-}
-
-	

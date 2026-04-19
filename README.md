@@ -63,3 +63,6 @@ lab4a Buttonexample o/p :https://github.com/NagarathnaAS30/NagarathnaAS/blob/mai
 
 5c CountryCapitalList o/p :https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/5c.png
 
+
+5d ColorTabbedPane o/p : https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/5d.png
+

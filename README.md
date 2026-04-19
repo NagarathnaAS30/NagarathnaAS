@@ -52,13 +52,15 @@ q4 o/p :https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q4.png
 
 q5 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q5.png
 
-q6 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q6.png
+lab3c q6 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q6.png
 
 q7 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q7.png
 
 q8 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q8.png
 
 q9 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q9.java
+
+q10 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q10.png
 
 lab4a Buttonexample o/p :https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/4a.png
 

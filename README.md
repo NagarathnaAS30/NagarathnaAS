@@ -34,3 +34,5 @@ p10 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p10.png
 
 
 lab2a o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/2a.png
+
+2b performanceTest o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/2b.png

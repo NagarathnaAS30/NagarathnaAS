@@ -21,3 +21,6 @@ lab1c p6 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p6.png
 p7 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p7.png
 
 p8 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p8.png
+
+
+p9 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p9.png

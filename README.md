@@ -58,6 +58,8 @@ q7 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q7.png
 
 q8 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q8.png
 
+q9 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q9.java
+
 lab4a Buttonexample o/p :https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/4a.png
 
 

@@ -68,6 +68,8 @@ lab4a Buttonexample o/p :https://github.com/NagarathnaAS30/NagarathnaAS/blob/mai
 
 4b swingexample o/p : https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/4b.png
 
+4c imageButton o/p: https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/Screenshot%202026-04-19%20224219.hourglass.png
+
 
 
 

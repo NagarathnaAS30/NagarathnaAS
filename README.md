@@ -15,3 +15,5 @@ p3 o/p :https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p3.png
 p4 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p4.png
 
 p5 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p5.png
+
+lab1c p6 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p6.png

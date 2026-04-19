@@ -49,5 +49,5 @@ lab4a Buttonexample :https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/4a
 
 
 
-swingexample : https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/4b.png
+4b swingexample : https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/4b.png
 

@@ -19,3 +19,5 @@ p5 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p5.png
 lab1c p6 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p6.png
 
 p7 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p7.png
+
+p8 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p8.png

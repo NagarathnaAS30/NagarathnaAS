@@ -46,6 +46,7 @@ lab3b q1 o/p : https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q1.png
 
 q2 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q2.png
 
+q3 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q3.png
 
 
 

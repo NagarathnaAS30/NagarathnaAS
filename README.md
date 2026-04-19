@@ -59,3 +59,7 @@ lab4a Buttonexample o/p :https://github.com/NagarathnaAS30/NagarathnaAS/blob/mai
 
 5b TabbedPaneExample o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/5b.png
 
+
+
+5c CountryCapitalList o/p :https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/5c.png
+

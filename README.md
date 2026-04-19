@@ -50,6 +50,7 @@ q3 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q3.png
 
 q4 o/p :https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q4.png
 
+q5 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/q5.png
 
 lab4a Buttonexample o/p :https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/4a.png
 

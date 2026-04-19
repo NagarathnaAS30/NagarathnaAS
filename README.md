@@ -45,14 +45,17 @@ https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/3.png
 
 
 
-lab4a Buttonexample :https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/4a.png
+lab4a Buttonexample o/p :https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/4a.png
 
 
 
-4b swingexample : https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/4b.png
+4b swingexample o/p : https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/4b.png
 
 
 
 
-5a JlistExample:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/5a.png
+5a JlistExample  o/p :https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/5a.png
+
+
+5b TabbedPaneExample o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/5b.png
 

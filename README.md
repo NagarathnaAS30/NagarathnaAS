@@ -7,3 +7,7 @@ lab1b p1 o/p :https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p1.png
 
 
 p2 o/p:https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p2.png
+
+
+
+p3 o/p :https://github.com/NagarathnaAS30/NagarathnaAS/blob/main/p3.png

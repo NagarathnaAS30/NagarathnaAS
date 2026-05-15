@@ -4,3 +4,5 @@ O/P:https://github.com/NagarathnaAS30/NagarathnaAS/blob/hotelmanagementsystemmin
 https://github.com/NagarathnaAS30/NagarathnaAS/blob/hotelmanagementsystemminiproject/2.png
 
 https://github.com/NagarathnaAS30/NagarathnaAS/blob/hotelmanagementsystemminiproject/Screenshot%202026-05-15%20222218.png
+
+https://github.com/NagarathnaAS30/NagarathnaAS/blob/hotelmanagementsystemminiproject/Screenshot%202026-05-15%20222237.png

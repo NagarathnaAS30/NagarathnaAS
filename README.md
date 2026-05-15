@@ -16,3 +16,5 @@ https://github.com/NagarathnaAS30/NagarathnaAS/blob/hotelmanagementsystemminipro
 https://github.com/NagarathnaAS30/NagarathnaAS/blob/hotelmanagementsystemminiproject/Screenshot%202026-05-15%20222343.png
 
 https://github.com/NagarathnaAS30/NagarathnaAS/blob/hotelmanagementsystemminiproject/Screenshot%202026-05-15%20222400.png
+
+https://github.com/NagarathnaAS30/NagarathnaAS/blob/hotelmanagementsystemminiproject/Screenshot%202026-05-15%20222418.png
